@@ -78,6 +78,7 @@
 - C/C++
     - Classic languages
     - Will force you to become familiar with how memory works
+    - [learncpp](learncpp.com) Online guide
 
 - Rust
     - Similar to C++, but more memory safe
@@ -86,6 +87,7 @@
     - Syntax looks a little like Python
     - Very good for microservices or web servers
     - Used at TCN and Vasion here in St. George
+    - [learn go with tests](https://quii.gitbook.io/learn-go-with-tests) Learn how to write tests 
 
 # Topics/Other Things
 
